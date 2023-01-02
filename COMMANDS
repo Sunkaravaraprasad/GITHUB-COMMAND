@@ -1,0 +1,5 @@
+GIT CLONE:  ssh://something.com/[username]/[repository_name].git:
+GIT COMMIT : m [“message for commit”]:
+Search and navigation mode: Esc or Ctrl+K (Windows and Linux) Command+K (Mac)
+Command mode: Esc or Ctrl+Shift+K (Windows and Linux) Command+Shift+K (Mac)
+Git add :  [file_name.doc]
